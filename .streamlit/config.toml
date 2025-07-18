@@ -1,0 +1,8 @@
+# File: .streamlit/secrets.toml
+# IMPORTANTE: Non committare questo file su GitHub!
+# Usa i Secrets di Streamlit Cloud invece
+
+[secrets]
+GITHUB_TOKEN = "ghp_your_github_token_here"
+GITHUB_REPO_OWNER = "your_username"
+GITHUB_REPO_NAME = "paypal-manager-data"
